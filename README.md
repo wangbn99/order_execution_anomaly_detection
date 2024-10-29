@@ -42,3 +42,10 @@ refOrderId        String
 trdPlatform       String
 ```
 Please refer to https://www.onixs.biz/fix-dictionary/4.2/fields_by_name.html for the meaning of detailed data fields.
+
+### Supporting Libs and ML Algorithms
+Spark
+PySpark
+SparkML
+SparkSQL
+MultilayerPerceptronClassifier
